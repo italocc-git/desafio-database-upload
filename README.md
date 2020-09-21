@@ -23,6 +23,7 @@ além de permitir a criação de novos registros no banco de dados a partir do e
  
  <ol>
    <li>Crie o banco de dados no postgres com o nome : gostack-desafio2 </li>
+   <li> Execute todas as migrations </li>
    <li>Para instalar as dependências : </li>
     <p> Yarn </p>
    <li> Para iniciar a aplicação : </li>
