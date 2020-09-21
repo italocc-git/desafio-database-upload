@@ -18,9 +18,9 @@ além de permitir a criação de novos registros no banco de dados a partir do e
   <li> Yarn </li>
   <li> Insomnia </li>
  </ul>
- 
+ <h3>
  Configuração 
- 
+ </h3>
  <ol>
    <li>Crie o banco de dados no postgres com o nome : gostack-desafio2 </li>
    <li> Execute todas as migrations </li>
