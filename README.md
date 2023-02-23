@@ -10,7 +10,6 @@ além de permitir a criação de novos registros no banco de dados a partir do e
 
 <ul> 
   <li> Typescript </li>
-  <li> React </li>
   <li> Docker </li>
   <li> PostgreSQL </li>
   <li> Node </li>
